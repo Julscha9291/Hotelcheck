@@ -5,7 +5,7 @@ import pandas as pd
 data = {
     'Hotel': ['TUI Blue', 'Melia Llana'],
     'Bewertung': [84, 82],
-    'Wichtigkeit Susi': [0, 1],
+    'Wichtigkeit Susi': [0, 5],
     'Anzahl der Pools': [2, 2],
     'Anzahl Restaurants': [4, 4],
     'Anzahl Bars und Mehr': [4, 3],
